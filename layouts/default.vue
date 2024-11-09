@@ -1,0 +1,14 @@
+<template>
+  <div>
+    <Header />
+    <FixedHeader />
+    <slot />
+    <Footer />
+  </div>
+</template>
+
+<script setup>
+import Footer from "@/components/layout/Footer.vue";
+import Header from "@/components/layout/Header.vue";
+import FixedHeader from "@/components/FixedHeader.vue";
+</script>

@@ -3,7 +3,7 @@
     <!-- Preview Video Section -->
     <div class="relative aspect-video">
       <img
-        src="/public/images/main.jpeg"
+        src="/images/main.jpeg"
         alt="Figma Logo"
         class="absolute inset-0 w-full h-full object-cover border-white"
       />

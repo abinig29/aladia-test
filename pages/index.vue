@@ -60,6 +60,8 @@
 
 <script setup>
 import { ref } from "vue";
+import RelatedTopics from "@/components/recommendations/RelatedTopics.vue";
+import TopCompanies from "@/components/other/TopCompanies.vue";
 
 const course = ref({
   id: 1,

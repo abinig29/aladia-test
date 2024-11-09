@@ -62,6 +62,8 @@
 import { ref } from "vue";
 import RelatedTopics from "@/components/recommendations/RelatedTopics.vue";
 import TopCompanies from "@/components/other/TopCompanies.vue";
+import RelatedCourses from "@/components/recommendations/RelatedCourses.vue";
+import FrequentlyBoughtTogether from "@/components/recommendations/FrequentlyBoughtTogether.vue";
 
 const course = ref({
   id: 1,

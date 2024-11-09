@@ -6,6 +6,6 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   app: {
-    baseURL: '/aladia-test/'  
+    baseURL: '/'  
   }
 })

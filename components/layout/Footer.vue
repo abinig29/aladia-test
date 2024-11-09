@@ -97,16 +97,16 @@ const companies = [
   { name: "Nasdaq", logo: "/images//nasdaq-light.svg" },
   {
     name: "Volkswagen",
-    logo: "/images//volkswagen-light.svg",
+    logo: "/images/volkswagen-light.svg",
   },
-  { name: "Box", logo: "/images//box-light.svg" },
+  { name: "Box", logo: "/images/box-light.svg" },
   {
     name: "NetApp",
-    logo: "/images//netapp-light.svg",
+    logo: "/images/netapp-light.svg",
   },
   {
     name: "Eventbrite",
-    logo: "/images//eventbrite-light.svg",
+    logo: "/images/eventbrite-light.svg",
   },
 ];
 
